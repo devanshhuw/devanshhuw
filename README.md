@@ -80,12 +80,12 @@
 <h3 align="center"> &nbsp;STATS&nbsp; </h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=unfotable&show_icons=true&include_all_commits=true&count_private=false&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&icon_color=f2efe8&border_color=282420&border_radius=0" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=unfotable&layout=compact&langs_count=6&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&border_color=282420&border_radius=0" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=devanshhuw&show_icons=true&include_all_commits=true&count_private=false&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&icon_color=f2efe8&border_color=282420&border_radius=0" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=devanshhuw&layout=compact&langs_count=6&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&border_color=282420&border_radius=0" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=unfotable&background=0C0C0D&border=282420&stroke=282420&ring=3FAE44&fire=3FAE44&currStreakNum=EDEDF0&sideNums=EDEDF0&currStreakLabel=EDEDF0&sideLabels=8B8B92&dates=8B8B92&border_radius=0" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=devanshhuw&background=0C0C0D&border=282420&stroke=282420&ring=3FAE44&fire=3FAE44&currStreakNum=EDEDF0&sideNums=EDEDF0&currStreakLabel=EDEDF0&sideLabels=8B8B92&dates=8B8B92&border_radius=0" alt="GitHub streak" />
 </p>
 
 <div align="center">
@@ -97,6 +97,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=226A28&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;THANKS+FOR+VISITING" alt="Press start. Thanks for visiting." />
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=unfotable&label=PROFILE%20VIEWS&color=3fae44&labelColor=0c0c0d&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?usernamedevanshhuw&label=PROFILE%20VIEWS&color=3fae44&labelColor=0c0c0d&style=flat-square" alt="Profile views" />
 
 </div>
