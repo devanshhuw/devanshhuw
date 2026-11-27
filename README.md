@@ -1,102 +1,73 @@
-<!--
-  Self-contained: nothing to upload. Pixel type comes from the "Press Start 2P" font via readme-typing-svg.
-  Optional custom pixel scene: upload assets/pixel-banner.svg and assets/pixel-footer.svg, then swap the
-  two <picture> blocks (top and bottom) for:  <img src="assets/pixel-banner.svg" width="100%" />
--->
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&color=F2EFE8&center=true&vCenter=true&width=640&height=70&repeat=false&pause=1000&lines=UNFOTABLE">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&color=0C0C0D&center=true&vCenter=true&width=640&height=70&repeat=false&pause=1000&lines=UNFOTABLE" alt="UNFOTABLE" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=7DDC82&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=VERSATILE.;DEVELOPING+UNFOTABLE+NETWORK;MANAGING+ZEN+EMPIRE;LEARNING+PYTHON">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=226A28&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=VERSATILE.;DEVELOPING+UNFOTABLE+NETWORK;MANAGING+ZEN+EMPIRE;LEARNING+PYTHON" alt="Versatile. Developing UNFOTABLE NETWORK. Managing Zen Empire. Learning Python." />
-</picture>
+<img src="assets/terminal.svg" alt="devanshhuw terminal" width="840"/>
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/arc.of.dev-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/arc.of.dev)
-[![Instagram](https://img.shields.io/badge/devanshu.fps-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/devanshu.fps/)
-[![Email](https://img.shields.io/badge/Email-0c0c0d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:termi9al@gmail.com)
+<img src="assets/pets.svg" alt="pixel pets walking around" width="840"/>
 
-‧˚₊‧ ┈┈┈ ⟡ ┈┈┈ ‧₊˚⊹
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=devanshhuw&label=visitors&color=cba6f7&style=flat-square&labelColor=1e1e2e" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/devanshhuw?label=followers&style=flat-square&color=f5c2e7&labelColor=1e1e2e" alt="followers"/>
+<img src="https://img.shields.io/badge/status-cozy-a6e3a1?style=flat-square&labelColor=1e1e2e" alt="status"/>
 
 </div>
 
-<h3 align="center"> &nbsp;ABOUT&nbsp; </h3>
+<br/>
 
-<p align="center">
-𝑰 𝒃𝒖𝒊𝒍𝒅 𝒄𝒂𝒍𝒎 𝒘𝒆𝒃 𝒕𝒐𝒐𝒍𝒔: 𝒕𝒉𝒆 𝒌𝒊𝒏𝒅 𝒕𝒉𝒂𝒕 𝒐𝒑𝒆𝒏 𝒘𝒊𝒕𝒉 𝒂 𝒅𝒐𝒖𝒃𝒍𝒆-𝒄𝒍𝒊𝒄𝒌.<br/>
-<code>no build step</code> &nbsp;·&nbsp; <code>zero dependencies</code> &nbsp;·&nbsp; <code>your data stays in your browser</code>
-</p>
-
-```
+```bash
+~ $ cat ~/.plan
 ```
 
-<br/>
-
-<h3 align="center"> &nbsp;PROJECTS&nbsp; </h3>
-
-#### 🧾 SPLID &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
-
-> **Who owes whom, at a glance.** A zero-backend expense splitter for trips, flatmates and dinners. Equal, custom or percentage splits, an animated SVG balance graph (Direct and Simplified views), settle-up and an activity timeline.
-
-`React` `htm` `Tailwind` `localStorage` &nbsp;→&nbsp; **[Live ↗](https://splid.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/splid)**
-
-#### 🗂 SYNCRO &nbsp;<sub>[`unfotable/syncro`](https://github.com/unfotable/syncro)</sub>
-
-> **Notes, sheets and boards, in sync with your flow.** A calm productivity workspace that fits in one browser tab: rich-text notes, formula sheets and drag-and-drop boards. Share read-only links, export to PDF or JSON, dark and light themes. Ink on paper, with a single green dot.
-
-`Vanilla JS` `HTML5` `CSS3` `Web Crypto` `0 dependencies` &nbsp;→&nbsp; **[Live ↗](https://syncro.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/syncro)**
-
-#### 💬 ACEBYDEV &nbsp;<sub>[`unfotable/ACEBYDEV`](https://github.com/unfotable/ACEBYDEV)</sub>
-
-> A chat project, still taking shape.
-
-`HTML5` `CSS3` `JavaScript` &nbsp;→&nbsp; **[Live ↗](https://acebydev.unfo.workers.dev/)** **[Source](https://github.com/unfotable/unfochat)**
+```text
+[x] ship small things often
+[x] keep the terminal themed and the coffee hot
+[ ] learn something new every week
+[ ] take the pets for a walk
+```
 
 <br/>
 
-<h3 align="center"> &nbsp;STACK&nbsp; </h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0c0c0d?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0c0c0d?style=flat-square&logo=css3&logoColor=3b9ae1" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0c0c0d?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-
-  <img src="https://img.shields.io/badge/Python-0c0c0d?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
-  <br/>
-  <img src="https://img.shields.io/badge/GitHub-0c0c0d?style=flat-square&logo=github&logoColor=ededf0" alt="GitHub" />
-
-  <img src="https://img.shields.io/badge/Windows%20Terminal-0c0c0d?style=flat-square&logo=windowsterminal&logoColor=ededf0" alt="Windows Terminal" />
-
-</p>
-
-<br/>
-
-<h3 align="center"> &nbsp;STATS&nbsp; </h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=devanshhuw&show_icons=true&include_all_commits=true&count_private=false&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&icon_color=f2efe8&border_color=282420&border_radius=0" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=devanshhuw&layout=compact&langs_count=6&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&border_color=282420&border_radius=0" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=devanshhuw&background=0C0C0D&border=282420&stroke=282420&ring=3FAE44&fire=3FAE44&currStreakNum=EDEDF0&sideNums=EDEDF0&currStreakLabel=EDEDF0&sideLabels=8B8B92&dates=8B8B92&border_radius=0" alt="GitHub streak" />
-</p>
+```bash
+~ $ stats --user devanshhuw
+```
 
 <div align="center">
 
-‧˚₊‧ ┈┈┈ ⟡ ┈┈┈ ‧₊˚⊹
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devanshhuw&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&ring_color=cba6f7&border_radius=12" alt="github stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshhuw&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=12" alt="top languages"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=7DDC82&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;THANKS+FOR+VISITING">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=226A28&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;THANKS+FOR+VISITING" alt="Press start. Thanks for visiting." />
-</picture>
+<img src="https://streak-stats.demolab.com?user=devanshhuw&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CDD6F4&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=9399B2&stroke=313244&border=313244&hide_border=true" alt="streak"/>
 
-<img src="https://komarev.com/ghpvc/?usernamedevanshhuw&label=PROFILE%20VIEWS&color=3fae44&labelColor=0c0c0d&style=flat-square" alt="Profile views" />
+</div>
+
+<br/>
+
+```bash
+~ $ ls ~/toolbox
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,vscode&theme=dark" alt="toolbox"/>
+
+</div>
+
+<br/>
+
+```bash
+~ $ ./contact.sh
+```
+
+<div align="center">
+
+<a href="https://github.com/devanshhuw"><img src="https://img.shields.io/badge/github-devanshhuw-cba6f7?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e" alt="github"/></a>
+<!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/linkedin-connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e" alt="linkedin"/></a> -->
+<!-- <a href="mailto:YOU@EXAMPLE.COM"><img src="https://img.shields.io/badge/mail-say%20hi-f5c2e7?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=1e1e2e" alt="mail"/></a> -->
+
+<br/><br/>
+
+<sub><code>~ $ exit 0</code>  -  thanks for stopping by, pet the cat on your way out</sub>
 
 </div>
